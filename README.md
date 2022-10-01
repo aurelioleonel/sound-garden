@@ -1,5 +1,5 @@
 # sound-garden
-#Projeto casa show Sound Garden, desafio da Gama Academy - xp45
+Projeto casa show Sound Garden, desafio da Gama Academy - xp45
 
 <h2>O objetivo do projeto é reproduzir o mais fiél uma página de uma casa de show .
 Foi utilizado as ferramentas do Html, Css e o VScode.
